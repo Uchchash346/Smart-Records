@@ -10,7 +10,7 @@ const Navbar = () => {
                 </Link>
                 <div>
                     <Link to="/contacts/add" >
-                       <button className="ml-auto" styles={{backgroundColor: "white", borderRadius: "8px!important"}}> Create Contact</button>
+                        <button className="ml-auto" styles={{ backgroundColor: "white", borderRadius: "8px!important" }}> Create Contact</button>
                     </Link>
                 </div>
             </div>
