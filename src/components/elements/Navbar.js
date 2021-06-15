@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav className="navbar shadow fixed-top navbar-expand-sm navbar-dark bg-primary">
             <div className="container">
                 <Link to="/" className="navbar-brand">
-                    Contact Book
+                    Smart Records
                 </Link>
                 <div>
                     <Link to="/contacts/add" >
